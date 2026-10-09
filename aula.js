@@ -41,3 +41,9 @@ console.log("valor total: R$", valorTotal.toFixed(2));
 // produto = ["sanduiche",4, "Hamburguer",true, "coxinha", "suco"]
 // let tamanho = produto.length // tamanho 4
 // console.log(produto[2])
+let pizza = {
+    id: 1 
+    sabor: "4 queojos",
+    estoque: 10,
+    tamanho: ["grande", "media","brotinho"]
+}
